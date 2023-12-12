@@ -1,0 +1,1 @@
+# PHP_ZEND_TRACE
